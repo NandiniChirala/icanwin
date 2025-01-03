@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hey Rangule Rangule
 Hey Rangule Rangule
 
@@ -19,3 +20,28 @@ Mana Madhyalo Cherukovaddani
 Parichayam Ayanadi
 Maro Sundara Prapancha Nuvuga
 Madhuvanam Ayanadi
+=======
+Mana Madhyalo Cherukovaddani
+Parichayam Ayanadi
+Maro Sundara Prapancha Nuvuga
+Madhuvanam Ayanadi
+
+Manasse Cheli Chaitram Jataga
+Kalagane Vennela Samipichenu Nee Peruga
+Hariville Na Medanallenu Nee Premaga
+
+Hey Rangule Rangule
+Hey Rangule Rangule
+
+Nee Rakato Lokame
+Rangule Pongenene
+He Vintale Kerintale
+Nee Chetillo Cheyiga
+
+Aakasam Andhene
+
+Snehame Mellaga Geetale Dadhene
+Kalame Sakshiga Andharalu Cherige
+Uuhake Andani Sangatedo Jarige
+Ee Kshanam Adbhutam Adbhutam
+>>>>>>> c9da75b532dd785aab99acfe0ce8cb415ebc3faa
